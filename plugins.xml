@@ -5,7 +5,7 @@
     <about><![CDATA[Build para QGIS 3.x (PyQt5).]]></about>
     <qgis_minimum_version>3.28</qgis_minimum_version>
     <qgis_maximum_version>3.99.99</qgis_maximum_version>
-    <file_name>OBRA_NUEVA_QGIS3.zip</file_name>
+    <file_name>OBRA_NUEVA_v168.zip</file_name>
     <icon>icon.png</icon>
     <author_name><![CDATA[Javier Rodriguez y Marina Caballero (GIS-OMICRON)]]></author_name>
     <download_url>https://raw.githubusercontent.com/jrbarrientosGIS/obra-nueva-qgis-repo/main/OBRA_NUEVA_QGIS3.zip</download_url>
@@ -19,7 +19,7 @@
     <description><![CDATA[Plugin interno del departamento (GIS Omicron) para gestion de obras: Nueva Obra, Carga Obra, Consulta, KMZ, Fotos/Anejo fotografico, Archivar/Actualiza GPKG.]]></description>
     <about><![CDATA[Build para QGIS 4.x (PyQt6).]]></about>
     <qgis_minimum_version>4.0</qgis_minimum_version>
-    <file_name>OBRA_NUEVA_QGIS4.zip</file_name>
+    <file_name>OBRA_NUEVA_v168.zip</file_name>
     <icon>icon.png</icon>
     <author_name><![CDATA[Javier Rodriguez y Marina Caballero (GIS-OMICRON)]]></author_name>
     <download_url>https://raw.githubusercontent.com/jrbarrientosGIS/obra-nueva-qgis-repo/main/OBRA_NUEVA_QGIS4.zip</download_url>
