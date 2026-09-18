@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
-  <pyqgis_plugin name="OBRA_NUEVA" version="1.7.6-fix-plano-general-teselas-vectoriales">
+  <pyqgis_plugin name="OBRA_NUEVA" version="1.7.7-fix-cierre-actualiza-gpkg">
     <description><![CDATA[Plugin interno del departamento (GIS Omicron) para gestion de obras: Nueva Obra, Carga Obra, Consulta, KMZ, Fotos/Anejo fotografico, Archivar/Actualiza GPKG.]]></description>
     <about><![CDATA[Build para QGIS 3.x (PyQt5).]]></about>
     <qgis_minimum_version>3.28</qgis_minimum_version>
@@ -9,13 +9,13 @@
     <icon>icon.png</icon>
     <author_name><![CDATA[Javier Rodriguez y Marina Caballero (GIS-OMICRON)]]></author_name>
     <download_url>https://raw.githubusercontent.com/jrbarrientosGIS/obra-nueva-qgis-repo/main/OBRA_NUEVA_QGIS3.zip</download_url>
-    <update_date>2026-09-10T00:00:00</update_date>
+    <update_date>2026-09-18T00:00:00</update_date>
     <experimental>False</experimental>
     <deprecated>False</deprecated>
     <tags><![CDATA[QGIS,GeoPackage,KMZ,Multiobra,Fotos,Anejo fotografico,Ingenieria]]></tags>
     <server>False</server>
   </pyqgis_plugin>
-  <pyqgis_plugin name="OBRA_NUEVA" version="1.7.6-fix-plano-general-teselas-vectoriales-qgis4">
+  <pyqgis_plugin name="OBRA_NUEVA" version="1.7.7-fix-cierre-actualiza-gpkg-qgis4">
     <description><![CDATA[Plugin interno del departamento (GIS Omicron) para gestion de obras: Nueva Obra, Carga Obra, Consulta, KMZ, Fotos/Anejo fotografico, Archivar/Actualiza GPKG.]]></description>
     <about><![CDATA[Build para QGIS 4.x (PyQt6).]]></about>
     <qgis_minimum_version>4.0</qgis_minimum_version>
@@ -23,7 +23,7 @@
     <icon>icon.png</icon>
     <author_name><![CDATA[Javier Rodriguez y Marina Caballero (GIS-OMICRON)]]></author_name>
     <download_url>https://raw.githubusercontent.com/jrbarrientosGIS/obra-nueva-qgis-repo/main/OBRA_NUEVA_QGIS4.zip</download_url>
-    <update_date>2026-09-10T00:00:00</update_date>
+    <update_date>2026-09-18T00:00:00</update_date>
     <experimental>False</experimental>
     <deprecated>False</deprecated>
     <tags><![CDATA[QGIS,GeoPackage,KMZ,Multiobra,Fotos,Anejo fotografico,Ingenieria]]></tags>
