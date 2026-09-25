@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
-  <pyqgis_plugin name="OBRA_NUEVA" version="1.7.11-fix-cierre-actualiza-proveedor-ogr">
+  <pyqgis_plugin name="OBRA_NUEVA" version="1.7.12-revision-formulario-atributos">
     <description><![CDATA[Plugin interno del departamento (GIS Omicron) para gestion de obras: Nueva Obra, Carga Obra, Consulta, KMZ, Fotos/Anejo fotografico, Archivar/Actualiza GPKG.]]></description>
     <about><![CDATA[Build para QGIS 3.x (PyQt5).]]></about>
     <qgis_minimum_version>3.28</qgis_minimum_version>
@@ -15,7 +15,7 @@
     <tags><![CDATA[QGIS,GeoPackage,KMZ,Multiobra,Fotos,Anejo fotografico,Ingenieria]]></tags>
     <server>False</server>
   </pyqgis_plugin>
-  <pyqgis_plugin name="OBRA_NUEVA" version="1.7.11-fix-cierre-actualiza-proveedor-ogr-qgis4">
+  <pyqgis_plugin name="OBRA_NUEVA" version="1.7.12-revision-formulario-atributos-qgis4">
     <description><![CDATA[Plugin interno del departamento (GIS Omicron) para gestion de obras: Nueva Obra, Carga Obra, Consulta, KMZ, Fotos/Anejo fotografico, Archivar/Actualiza GPKG.]]></description>
     <about><![CDATA[Build para QGIS 4.x (PyQt6).]]></about>
     <qgis_minimum_version>4.0</qgis_minimum_version>
